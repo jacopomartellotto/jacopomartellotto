@@ -20,7 +20,7 @@
 ## 📫 How to contact me
 <p align="center">
   
-<a href="prova@gmail.com" target="_self"> 
+<a href="prova@gmail.com"> 
    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="email" border="0" width="70" height="70"/>
 </a> 
   
