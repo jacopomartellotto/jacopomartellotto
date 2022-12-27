@@ -3,7 +3,8 @@
 ## Bio
 - 🎓 I'm a Physics Student at @Unipi
 - 📌 I'm based in Pisa, Tuscany, Italy
-
+- 📊 Data Science enthusiast               
+- 👨‍💻 CTF player
 
 ## 🎯 Skills
 <p align="center">
