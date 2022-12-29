@@ -20,7 +20,6 @@
       <img src="https://skillicons.dev/icons?i=vscode,emacs,visualstudio"/>
   </a>
 </p>
-<br>
 
 ## 📫 How to contact me
 - 📧 [Mail](mailto:j.martellotto@studenti.unipi.it) 
