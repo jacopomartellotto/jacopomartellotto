@@ -11,7 +11,7 @@
 ## 🎯 Skills
 <p align="center">
   <a>
-      <img src="https://skillicons.dev/icons?i=py,cpp,c,fortran,latex,md,tensorflow,linux,arduino,docker,mysql,html,css,ps"/> 
+      <img src="https://skillicons.dev/icons?i=py,cpp,c,fortran,latex,md,tensorflow,linux,arduino"/> 
     <br>
       <img src="https://skillicons.dev/icons?i=docker,mysql,html,css,ps"/> 
     <br>
