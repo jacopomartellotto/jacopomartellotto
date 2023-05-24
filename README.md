@@ -22,14 +22,3 @@
 ## 📫 How to contact me
 - 📧 [Mail](mailto:j.martellotto@studenti.unipi.it) 
 - 💼 [Linkedin](https://www.linkedin.com/in/jacopo-martellotto-baa89a258/)
-
-## 📈 GitHub Stats 
-
-<a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacopomartellotto&bg_color=30,904e95,fa3e3e&title_color=fff&text_color=fff" width="400"/>
-</a>
-
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jacopomartellotto&bg_color=30,904e95,fa3e3e&title_color=fff&text_color=fff" width="400"/>
-</a>
-
