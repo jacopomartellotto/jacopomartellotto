@@ -1,11 +1,9 @@
 # Welcome!👋
 
-![Jacopo Martellotto Banner](./banner.png)
-
 ## ✍️ Bio
 - 🎓 I'm a Physics Student at @Unipi
 - 📌 I'm based in Pisa, Tuscany, Italy        
-- 👨‍💻 CTF player
+- 👨‍💻 CTF player [Cryptography]
 
 ## 🎯 Skills
 <p align="center">
