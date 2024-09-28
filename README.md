@@ -11,8 +11,6 @@
       <img src="https://skillicons.dev/icons?i=py,cpp,fortran,latex,md,tensorflow,linux,arduino"/> 
     <br>
       <img src="https://skillicons.dev/icons?i=docker,mysql,html,css,ps"/> 
-    <br>
-      <img src="https://skillicons.dev/icons?i=vscode,emacs,visualstudio"/>
   </a>
 </p>
 
