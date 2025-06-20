@@ -5,15 +5,6 @@
 - 📌 I'm based in Pisa, Tuscany, Italy        
 - 👨‍💻 CTF player
 
-## 🎯 Skills
-<p align="center">
-  <a>
-      <img src="https://skillicons.dev/icons?i=py,cpp,fortran,latex,md,tensorflow,linux,arduino"/> 
-    <br>
-      <img src="https://skillicons.dev/icons?i=docker,mysql,html,css,ps"/> 
-  </a>
-</p>
-
 ## 📫 How to contact me
 - 📧 [Mail](mailto:j.martellotto@studenti.unipi.it) 
 - 💼 [Linkedin](https://www.linkedin.com/in/jacopo-martellotto-baa89a258/)
